@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -g   CMakeFiles/discrmt_final_projectc.dir/main.cpp.o  -o discrmt_final_projectc 

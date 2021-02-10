@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabarceo/CLionProjects/discrmt-final-projectc/main.cpp
+string
+-
+map
+-
+iostream
+-
+fstream
+-
+iostream
+-
+iterator
+-
+vector
+-
+sstream
+-
+fstream
+-
+algorithm
+-
+
