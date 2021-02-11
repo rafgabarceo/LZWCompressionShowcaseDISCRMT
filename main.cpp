@@ -110,7 +110,7 @@ int main() {
     }
     readCompressed.close();
 
-    std::string decompressed = decompress(compressed.begin(), compressed.end());
+    std::string decompressed = decompress(testVector.begin(), testVector.end());
     std::cout << decompressed << std::endl;
     newFile << decompressed;
 
